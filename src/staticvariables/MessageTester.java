@@ -16,6 +16,6 @@ public class MessageTester {
         StringBuilder stb=new StringBuilder("A");
         stb.append("B").append("C");
         System.out.println(stb);
-        
+
     }
 }
